@@ -6,7 +6,7 @@
 - Vs Code Ide
 
 ### Stack
-- M - MongoDB A NoSQL, document-oriented database that stores data in flexible, JSON-like structures.
+- M - MongoDB A NoSQL, document-oriented database that stores data ,interact and manipulate      in flexible, JSON-like structures to 
 - E - Express.js: A lightweight backend web framework running on Node.js that handles routing, requests, and middleware.
 - R - React: A client-side JavaScript library used to build interactive user interfaces with reusable components.
 - N - Node.js: A JavaScript runtime environment that executes server-side logic.
