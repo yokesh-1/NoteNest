@@ -4,6 +4,7 @@
 ### Software  
 - Node js 
 - Vs Code Ide
+- Postman
 
 ### Stack
 - M - MongoDB A NoSQL, document-oriented database that stores data ,interact and manipulate      in flexible, JSON-like structures to 
@@ -47,7 +48,10 @@ app.get("/api/notes" ,(req,res) =>{
     res.status(200).send("Your notes);
 })
 
+### Middlewares
 
+
+### Rate limit
 
 ### Important Links
 
@@ -63,6 +67,8 @@ app.get("/api/notes" ,(req,res) =>{
 ### Used packages 
 - express
 - nodemon
+- mongoose
+- dotenv
 
 
 ### Learnings 
