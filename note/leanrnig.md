@@ -63,6 +63,7 @@ app.get("/api/notes" ,(req,res) =>{
 - node server.js
 - git rm --cached -r .   {Unstage everything in your current directory by running a dot . }
 - npm install nodemon -D { -d represents to install in dev dependency alone}
+- ls -R    = to list all files and subdirectories recursively.
 
 ### Used packages 
 - express
